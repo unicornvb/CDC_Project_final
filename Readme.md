@@ -157,32 +157,5 @@ jupyter notebook preprocessing.ipynb
 jupyter notebook model_training.ipynb
 ```
 
----
 
-## ⚠️ Notes
 
-- Mapbox API token must be added manually (not included for security)
-- Satellite image download may take time due to API rate limits
-- GPU recommended for EfficientNet embedding extraction
-
----
-
-## 👩‍💻 Author
-
-**Vaibhavi Shinde**  
-B.Tech – Production & Industrial Engineering  
-IIT Roorkee
-
-This project was developed as a learning exercise in multimodal machine learning, geospatial analysis, and computer vision.
-
----
-
-## ⭐ Acknowledgements
-
-- [Mapbox](https://www.mapbox.com/)
-- [OpenStreetMap](https://www.openstreetmap.org/) contributors
-- PyTorch & XGBoost communities
-
----
-
-**⭐ If you find this project useful, please consider giving it a star!**
