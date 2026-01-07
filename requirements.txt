@@ -1,0 +1,15 @@
+numpy
+pandas
+scikit-learn
+xgboost
+torch
+torchvision
+pillow
+matplotlib
+seaborn
+tqdm
+requests
+osmnx
+geopandas
+shapely
+opencv-python
